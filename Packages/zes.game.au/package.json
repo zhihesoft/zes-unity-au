@@ -16,7 +16,6 @@
     "registry": "https://package.openupm.com"
   },
   "dependencies": {
-	"io.github.icsharpcode.sharpziplib": "1.2.0",
-	"com.unity.textmeshpro": "3.0.6"
+	"io.github.icsharpcode.sharpziplib": "1.2.0"
   }
 }
