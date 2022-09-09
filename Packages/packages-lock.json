@@ -155,6 +155,22 @@
       },
       "url": "https://packages.unity.cn"
     },
+    "io.github.icsharpcode.sharpziplib": {
+      "version": "1.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "zes.game.au": {
+      "version": "file:zes.game.au",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "io.github.icsharpcode.sharpziplib": "1.2.0",
+        "com.unity.textmeshpro": "3.0.6"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
