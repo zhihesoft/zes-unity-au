@@ -18,4 +18,12 @@ namespace Au
             return null;
         }
     }
+
+    [Serializable]
+    public class Tag
+    {
+        public string name;
+        public GameObject target;
+    }
+
 }
