@@ -4,15 +4,15 @@
     /// Async op result
     /// </summary>
     /// <typeparam name="T">Type of the return data</typeparam>
-    public class AsyncResult<T>
+    public class Result<T>
     {
-        public AsyncResult(int error, string message)
+        public Result(int error, string message)
         {
             this.error = error;
             this.message = message;
         }
 
-        public AsyncResult(T data)
+        public Result(T data)
         {
             this.error = 0;
             this.data = data;

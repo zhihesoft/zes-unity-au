@@ -3,7 +3,7 @@
     /// <summary>
     /// Http result
     /// </summary>
-    public class HttpResult : AsyncResult<string>
+    public class HttpResult : Result<string>
     {
         public HttpResult(string data) : base(data) { }
 
