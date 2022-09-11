@@ -13,5 +13,10 @@ namespace Au.DI
         {
             return new Container(this);
         }
+
+        public void Register<T>()
+        {
+            
+        }
     }
 }
