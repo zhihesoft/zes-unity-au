@@ -163,7 +163,7 @@
       "url": "https://package.openupm.com"
     },
     "zes.game.au": {
-      "version": "file:zes.game.au",
+      "version": "file:zes.au",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
