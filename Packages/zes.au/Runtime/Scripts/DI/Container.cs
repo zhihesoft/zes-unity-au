@@ -16,7 +16,7 @@ namespace Au.DI
 
         public void Register<T>()
         {
-            
+
         }
     }
 }
