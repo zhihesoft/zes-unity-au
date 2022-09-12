@@ -1,8 +1,8 @@
 {
-    "name": "zes.game.au.Editor",
+    "name": "zes.au.Editor",
     "rootNamespace": "",
     "references": [
-		"zes.game.au",
+		"zes.au",
 		"Unity.TextMeshPro"
 	],
     "includePlatforms": [
